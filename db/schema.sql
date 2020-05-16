@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS burgers_db;
-USE burgers_db;
+CREATE DATABASE IF NOT EXISTS uatwmtlunzsuwt4o.burgers;
+USE uatwmtlunzsuwt4o.burgers;
 
 DROP TABLE IF EXISTS burgers;
 
